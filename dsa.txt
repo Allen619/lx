@@ -1,3 +1,2 @@
-6351 https://git.cardinfolink.net/Everonet/static_evo/merge_requests/2341
-6173 https://git.cardinfolink.net/Everonet/static_evo/merge_requests/2340
-
+ boccc https://git.cardinfolink.net/Everonet/static_boccc/merge_requests/737
+ ntt   https://git.cardinfolink.net/Everonet/static_nttd/merge_requests/570
