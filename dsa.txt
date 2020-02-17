@@ -1,2 +1,1 @@
- boccc https://git.cardinfolink.net/Everonet/static_boccc/merge_requests/737
- ntt   https://git.cardinfolink.net/Everonet/static_nttd/merge_requests/570
+https://git.cardinfolink.net/Everonet/static_evo/merge_requests/2418/diffs
