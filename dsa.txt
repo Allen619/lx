@@ -1,5 +1,4 @@
-https://git.cardinfolink.net/Everonet/static_evo/merge_requests/2489/diffs
-https://git.cardinfolink.net/Everonet/static_boccc/merge_requests/758
+https://git.cardinfolink.net/Everonet/static_alp/merge_requests/391/diffs
 
 
 
