@@ -1,4 +1,22 @@
-https://git.cardinfolink.net/Everonet/static_evo/merge_requests/2486
+修改前：
+统一：
+/master/user/create
+
+---------------------------------------------
+
+修改后：
+机构：
+/master/user/institution/create
+/master/user/institution/update
+集团：
+/master/user/agent/create
+/master/user/agent/update
+商户：
+/master/user/merchant/create
+/master/user/merchant/update
+门店
+/master/user/store/create
+/master/user/store/update
 
 
 
