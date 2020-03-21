@@ -1,4 +1,4 @@
-https://git.cardinfolink.net/Everonet/static_evo/commit/f5dfdbd4b1035238dced62b140a7c54e37466bdf
+https://git.cardinfolink.net/Everonet/static_evo/merge_requests/2532/diffs
 
 
 
