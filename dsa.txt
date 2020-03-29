@@ -1,21 +1,4 @@
-机构编辑：
-/master/session/find
-/master/list?keyword=&limit=50
-/master/list?keyword=Africa/Asmara&limit=30
-/public/currency
-/master/list?keyword=&limit=30
-
-门店编辑：
-/master/institution/30300011/channels
-/public/countries?keyword=&limit=30
-/master/merchant/find?intMerCode=M113846&page=1&size=20
-/master/list?keyword=&limit=30
-/master/list?keyword=0780&limit=1
-/master/channelMerchant/match?agentCode=&bigChanMer=true&chanCode=ALP&chanMerId=&currency=&insCode=30300011&maxSize=1
-/master/router/one?cardBrand=ALP&intStoreCode=S026292
-/master/institution/30300011/currency/query
-/master/rc/scheme?keyword=&limit=300
-/public/mcc/v1
+https://git.cardinfolink.net/Everonet/static_boccc/merge_requests/771/diffs
 
 
 
