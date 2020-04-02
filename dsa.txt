@@ -1,7 +1,12 @@
 https://git.cardinfolink.net/Everonet/static_boccc/merge_requests/771/diffs
 
 
-
+intStoreCode: "S026491"
+inventor: 1261
+nodeCode: 2
+operationType: "2"
+remark: "dasndiasi1241"
+source: "2"
 
 
 
