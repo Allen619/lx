@@ -1,16 +1,29 @@
-https://git.cardinfolink.net/Everonet/static_boccc/merge_requests/771/diffs
+客户端
+    
+    通用
+      右侧-> 回到顶部 留言（针对作者）
+      头部-> 导航 多语言切换 搜索 
+      待定-> 头像 登录注册
 
+    列表
+      标题 作者 时间 介绍 阅读数 点赞数 评论数 分类（类别） 分享 排序（按时间，按点赞数，置顶永远在最上面）
 
-intStoreCode: "S026491"
-inventor: 1261
-nodeCode: 2
-operationType: "2"
-remark: "dasndiasi1241"
-source: "2"
+    文章内容
+      标题 作者 时间 分类 阅读数 点赞数 评论数 分享 评论 左边正文 右边有文章导航（锚点导航）
 
+    足迹
+      待定... 50条历史记录（也可以删除）
+  
+  
+管理端
+  
+    文件编辑
+      文章标题 介绍 选择分类 选择标签 是否置顶（可以添加数字，默认1，1-50） 是否公开 正文（Markdown编辑器）编辑时有删除
+      
+    文章列表
+      文章标题 介绍 分类 标签 排序数字 是否公开 添加文章  编辑文章 删除
 
-
-Unexpected block statement surrounding arrow body.
-
-
+    分类/标签
+      分类为2层 如（前端/vue 前端/jQery）
+      标签（vue react node spring boot...）  最多5个
 
